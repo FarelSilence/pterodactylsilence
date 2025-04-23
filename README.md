@@ -4,4 +4,4 @@ JANGAN DIBAGIKAN SECARA GRATIS, DAN JANGAN JUAL JUGA DENGAN HARGA MURAH JUAL LAH
 
 Comand Run Install Thema
 
-bash <(curl https://raw.githubusercontent.com/FarelSilence/pterodactylsilence/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/FarelSilence/pterodactylvsatu/main/install.sh)
